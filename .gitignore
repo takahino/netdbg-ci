@@ -1,0 +1,4 @@
+target/
+spike/app/bin/
+spike/app/obj/
+spike/.tools/
